@@ -26,13 +26,13 @@
 
 Create these functions, and then tests for these functions:
 
-1. Addition, multiplication, substraction, division.
+1. ~~Addition, multiplication, substraction, division.~~
 
-2. greaterThan, which returns true if  X is greater than Y.
+2. ~~greaterThan, which returns true if  X is greater than Y.~~
 
-3. lessThan, which returns true is X is less than Y.
+3. ~~lessThan, which returns true is X is less than Y.~~
 
-4. collectionHasNft, which takes an array of NFTs which is a custom object type that has two parameters, name and imageURL, and  returns true if the provided collection (array of NFTs) includes the provided nft. collectionHasNft(collection, nft)
+4. ~~collectionHasNft, which takes an array of NFTs which is a custom object type that has two parameters, name and imageURL, and  returns true if the provided collection (array of NFTs) includes the provided nft. collectionHasNft(collection, nft)~~
 
 5. removePandasFromCollection, which takes an array of NFTs which is the same NFT custom object type, and removes any nfts that have Panda in their name, and returns the new array with no pandas in it.
 
